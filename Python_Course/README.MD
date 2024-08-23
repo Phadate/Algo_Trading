@@ -1,1 +1,2 @@
-## All learnings, subfolder will be recorded in this file.
+## Python Course
+Day one completed
