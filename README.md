@@ -1,5 +1,5 @@
 ## Welcome to my Algo_Trading learning journey 
 
-I wiil be documenting my learning journey, stuggles here. 
+I will be documenting my learning journey and my struggles here. 
 
-For now, ** Let's get into it **
+For now, **Let's get into it**
