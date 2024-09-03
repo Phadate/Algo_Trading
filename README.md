@@ -1,10 +1,10 @@
-### ALGO TRADING LEARNING 
+# ALGO TRADING LEARNING
 
-I will be documenting my learning journey and my struggles here. 
+I will be documenting my learning journey and my struggles here.
 
 For now, **Let's get into it**
 
-### TOPICS COVERED 
+## TOPICS COVERED
 
 - Basic Syntax
 - Variables, Data Types, and Basic Operations.
@@ -12,3 +12,5 @@ For now, **Let's get into it**
 - Functions and Modules.
 - Lists, Tuples, Dictionaries, and Sets.
 - Error Handling.
+- Working with Python Libraries for Data Analysis
+- Introduction to Data Cleaning and Preprocessing in Python
